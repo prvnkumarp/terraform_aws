@@ -12,5 +12,4 @@ variable "project_name" {
 
 variable "email" {
   type = list(string)
-  default = ["prvnkumarp@outlook.com"]
 }
